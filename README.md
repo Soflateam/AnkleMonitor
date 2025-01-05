@@ -2,4 +2,5 @@ A simple In/Out board concept made for a touch screen computer. Potentially conn
 
 Designed to be easily editable, customizable 
 
-![OieHmFb2lx](https://github.com/user-attachments/assets/79a8d515-a30a-42e5-a997-a8a18b94f9f2)
+![OieHmFb2lx](https://github.com/user-attachments/assets/77d93c62-d730-4c03-9b55-fc9b95a6e5f3)
+
